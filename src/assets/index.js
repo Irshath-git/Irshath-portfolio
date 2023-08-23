@@ -49,7 +49,6 @@ export {
   reactjs,
   redux,
   tailwind,
-  typescript,
   threejs,
   nextjs,
   doodlelogo,
