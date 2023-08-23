@@ -13,7 +13,7 @@ import {
   git,
   figma,
   doodlelogo,
-  beupd,
+  beupdlogo,
   threejs,
   nextjs,
   creator,
@@ -129,7 +129,7 @@ const experiences = [
   {
     title: "Front-End Developer",
     company_name: "Beupd",
-    icon: beupd,
+    icon: beupdlogo,
     iconBg: "#E6DEDD",
     date: "Nov 2022 - Feb 2023",
     points: [

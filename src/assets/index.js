@@ -23,7 +23,7 @@ import threejs from "./tech/threejs.svg";
 import nextjs from "./tech/nextjs.svg";
 
 import doodlelogo from "./company/doodlelogo.png";
-import beupd from "./company/beupd.jpg";
+import beupdlogo from "./company/beupdlogo.jpg";
 
 import expensetracker from "./expensetracker.jpg";
 import zenclone from "./zenclone.jpg";
@@ -54,7 +54,7 @@ export {
   threejs,
   nextjs,
   doodlelogo,
-  beupd,
+  beupdlogo,
   beproject,
   expensetracker,
   zenclone,
