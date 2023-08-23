@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import nextjs from "./tech/nextjs.svg";
 
-import doodleblue from "./company/doodleblue.png";
+import doodlelogo from "./company/doodlelogo.png";
 import beupd from "./company/beupd.jpg";
 
 import expensetracker from "./expensetracker.jpg";
@@ -53,7 +53,7 @@ export {
   typescript,
   threejs,
   nextjs,
-  doodleblue,
+  doodlelogo,
   beupd,
   beproject,
   expensetracker,

@@ -12,7 +12,7 @@ import {
   mongodb,
   git,
   figma,
-  doodleblue,
+  doodlelogo,
   beupd,
   threejs,
   nextjs,
@@ -116,7 +116,7 @@ const experiences = [
   {
     title: "Full stack Developer",
     company_name: "Doodleblue Innovations Pvt Ltd",
-    icon: doodleblue,
+    icon: doodlelogo,
     iconBg: "#383E56",
     date: "April 2022 - October 2022",
     points: [
