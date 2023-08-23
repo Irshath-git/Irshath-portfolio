@@ -8,16 +8,16 @@ import live from "./live.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.svg";
+import css from "./tech/css.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
-import html from "./tech/html.svg";
-import javascript from "./tech/javascript.svg";
+import html from "./tech/html.png";
+import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/react.svg";
-import redux from "./tech/redux.svg";
-import tailwind from "./tech/tailwind.svg";
+import reactjs from "./tech/reactjs.png";
+import redux from "./tech/redux.png";
+import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
 import nextjs from "./tech/nextjs.svg";
 
