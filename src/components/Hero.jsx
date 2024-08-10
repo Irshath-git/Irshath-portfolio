@@ -21,7 +21,7 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I like to craft solid and scalable, User{" "}
             <br className="sm:block hidden" />
-            Interfaces and Full Stack Web Applications.
+            Interfaces and Full Stack Web Applications. <br />
             <span className="text-blue-500">Let's Connect in</span>
             <a href="https://in.linkedin.com/in/Irshath-S">
               <BsLinkedin
