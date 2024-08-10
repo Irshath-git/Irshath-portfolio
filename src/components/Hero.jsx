@@ -17,10 +17,11 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>
             Hi,I'm <span className="text-[#915eff]">Irshath</span>{" "}
           </h1>
+
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I like to craft solid and scalable, User{" "}
             <br className="sm:block hidden" />
-            Interfaces and Full Stack Web Applications. <br />
+            Interfaces and Full Stack Web Applications.
             <span className="text-blue-500">Let's Connect in</span>
             <a href="https://in.linkedin.com/in/Irshath-S">
               <BsLinkedin

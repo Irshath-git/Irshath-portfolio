@@ -98,6 +98,19 @@ const Navbar = () => {
           </div>
         </div>
       </div>
+      <div className="hidden md:flex mx-5">
+        <a
+          target="_blank"
+          href="https://drive.google.com/file/d/10M-QQ2z4pnJGl-TuqMYWGLWWZ-Tx3tbF/view?usp=drivesdk"
+        >
+          <button
+            type="button"
+            className="inline-block px-5 py-3 border-2 rounded-md border-[#1E90FF] text-[#1E90FF] font-bold text-sm leading-tight normal-case hover:bg-[#1E90FF] hover:text-[white] focus:outline-none transition duration-150 ease-in-out"
+          >
+            Resume
+          </button>
+        </a>
+      </div>
     </nav>
   );
 };
