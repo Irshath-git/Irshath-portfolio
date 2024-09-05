@@ -101,7 +101,7 @@ const Navbar = () => {
       <div className="hidden md:flex mx-5">
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/10M-QQ2z4pnJGl-TuqMYWGLWWZ-Tx3tbF/view?usp=drivesdk"
+          href="https://drive.google.com/file/d/1evTaE1ZU4V99kx6hXpmiPEqB0ldgZFU4/view?pli=1"
         >
           <button
             type="button"
