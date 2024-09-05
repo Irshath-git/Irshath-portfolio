@@ -114,19 +114,6 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full stack Developer",
-    company_name: "Doodleblue Innovations Pvt Ltd",
-    icon: doodlelogo,
-    iconBg: "#383E56",
-    date: "April 2022 - October 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-      "Have Worked on confidential projects",
-    ],
-  },
-  {
     title: "Front-End Developer",
     company_name: "Beupd",
     icon: beupdlogo,
@@ -138,6 +125,19 @@ const experiences = [
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
       "And Worked directly with founder and Co-founder.",
+    ],
+  },
+  {
+    title: "Full stack Developer",
+    company_name: "Doodleblue Innovations Pvt Ltd",
+    icon: doodlelogo,
+    iconBg: "#383E56",
+    date: "April 2022 - October 2022",
+    points: [
+      "Developing and maintaining web applications using MERN technologies.",
+      "Implemented responsive design and ensuring cross-browser compatibility.",
+      "Participated in code reviews and providing constructive feedback to other developers.",
+      "Renewed and optimize a web application classify as Doodle360 to monitor the employees day to day activities.",
     ],
   },
 ];
